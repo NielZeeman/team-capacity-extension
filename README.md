@@ -9,8 +9,11 @@ When the team members are assigned to multiple teams it is difficult to get an o
 Have a single view of all the members of the various teams and where they are allocated. This gives you the birds eye view of capacity across all the teams in the team project.
 It provides the single "pane of glass" to see where the team members are active and how much of their time is allocated.
 
+Feel free to install it from the [marketplace](https://marketplace.visualstudio.com/items?itemName=tfc.team-capacity) and provide me some [feedback](https://github.com/NielZeeman/team-capacity-extension/issues).
+
 ### Updates
 #### v0.0.11:
 - Added the ability to see activity details for each team members capacity
 - Made the column header (Team Name) clickable to take you to the appropriate capacity editing screen
 - Fixed bug when a team's iteration has not been selected
+
