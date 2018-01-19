@@ -11,7 +11,13 @@ It provides the single "pane of glass" to see where the team members are active 
 
 Feel free to install it from the [marketplace](https://marketplace.visualstudio.com/items?itemName=tfc.team-capacity) and provide me some [feedback](https://github.com/NielZeeman/team-capacity-extension/issues).
 
+Do you feel this extension is usefull?  
+[![Donante](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/nielzeeman/5)
+
 ### Updates
+#### v0.0.12:
+- Disregard iterations that has an end date in the past
+- Added scrolling to the window
 #### v0.0.11:
 - Added the ability to see activity details for each team members capacity
 - Made the column header (Team Name) clickable to take you to the appropriate capacity editing screen
