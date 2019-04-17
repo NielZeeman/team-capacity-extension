@@ -15,6 +15,12 @@ Do you feel this extension is usefull?
 [![Donante](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://paypal.me/nielzeeman/5)
 
 ### Updates
+#### v0.0.14:
+- Added mroe logging to the iteration search mechanism
+- Removed the demand in the manifest that was causing the install button on TFS 2017 to remain disabled
+#### v0.0.13:
+- Added the ability to select an iteration, fixing an issue in TFS 2015 on-prem where the default iteration is not reported
+- Fixed a "no iteration found" issue
 #### v0.0.12:
 - Disregard iterations that has an end date in the past
 - Added scrolling to the window
